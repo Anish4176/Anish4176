@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **anish.webwizard@gmail.com**
 
-- ⚡ Fun fact **I think I am funny!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 <a href="https://linkedin.com/in/anish-webdev" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvArBsL3q-mYGcZu2JGAch1aGPclnz488q-w&usqp=CAU" height="30" width="40" /></a>
@@ -27,7 +25,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIkBOkD52bdiJl2hHJ1Nhf9ILDW3Q48gY4lg&usqp=CAU" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPoisTcziy_SlMPl8PoxCviNYs7NGoAonU8zcctE&s" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish4176&show_icons=true&locale=en&layout=compact" alt="anish4176" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anish4176&show_icons=true&locale=en" alt="anish4176" /></p>
 
